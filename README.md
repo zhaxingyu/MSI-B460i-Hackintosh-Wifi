@@ -1,8 +1,16 @@
-# MSI-B460i-Hackintosh
+# MSI-B460i-Hackintosh（Intel iGPU）
 ## EFI 
 OpenCore: 0.6.6
 
 macOS version: 11.2
+
+## 功能测试
+- [x] 睡眠/唤醒
+- [x] windows引导
+- [x] 所有USB端口
+- [x] 核显硬件加速
+- [x] 蓝牙/WiFi（通过Airpotitlwm）
+- [x] 声卡输出
 
 ## 硬件配置
 | 规格     | 详细信息                                     |
