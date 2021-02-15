@@ -25,4 +25,5 @@ macOS version: 11.2
 | 无线网卡 | 英特尔 Wireless-AX200|
 
 ## 注意事项
-  序列号需使用opencore configurator 选择iMac 20,1型号生成三码，分别填入config.plist中的MLB(Board Serial Number)，SystemSerialNumber，SystemUUID中
+  1.序列号需使用opencore configurator 选择iMac 20,1型号生成三码，分别填入config.plist中的MLB(Board Serial Number)，SystemSerialNumber，SystemUUID中
+  2.BIOS需要进行一些设置，否则几率卡logo
