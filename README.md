@@ -1,6 +1,6 @@
 # MSI-B460i-Hackintosh（Intel iGPU）
 ## EFI 
-OpenCore: 0.6.6
+OpenCore: 0.6.7
 
 macOS version: 11.2
 
