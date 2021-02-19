@@ -1,4 +1,4 @@
-# MSI-B460i-Hackintosh（Intel iGPU）
+# MSI-B460i-Hackintosh（Intel iGPU&Native Wifi/BT）
 ## EFI 
 OpenCore: 0.6.7
 
