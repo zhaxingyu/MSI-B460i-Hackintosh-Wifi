@@ -42,3 +42,5 @@ macOS version: 11.2
        --DVMT Pre-Allocated(iGPU Memory): 64MB
        
        --Secure Boot必须关闭
+       
+       --多显示器支持开启
