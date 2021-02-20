@@ -31,8 +31,6 @@ macOS version: 11.2
   
   2.BIOS需要进行一些设置，否则卡logo 设置指南:https://b23.tv/Pc85I5 
   
-  注:  
-  
        --cfg-lock必须关闭
        
        --intel vt-d技术不影响黑苹果使用，有使用虚拟机需求的不用关闭
