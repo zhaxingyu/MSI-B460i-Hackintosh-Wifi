@@ -30,6 +30,15 @@ macOS version: 11.2
   1.序列号需使用opencore configurator 选择iMac 20,1型号生成三码，分别填入config.plist中的MLB(Board Serial Number)，SystemSerialNumber，SystemUUID中
   
   2.BIOS需要进行一些设置，否则卡logo 设置指南:https://b23.tv/Pc85I5 
+  
   注:  --intel vt-d技术不影响黑苹果使用，有使用虚拟机需求的不用关闭
+  
        --cfg-lock必须关闭
+       
        --fast boot不影响使用，可开启
+       
+       --Above 4G decoding必须开启
+       
+       --DVMT Pre-Allocated(iGPU Memory): 64MB
+       
+       --Secure Boot必须关闭
