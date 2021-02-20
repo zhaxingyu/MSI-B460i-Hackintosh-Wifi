@@ -148,6 +148,152 @@
 				<data>AAAAgA==</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
+				<key>model</key>
+				<string>Intel UHD Graphics 630</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,0,0</string>
+				<key>device_type</key>
+				<string>Host bridge</string>
+				<key>model</key>
+				<string>Internal Host Bridge</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x14,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,20,0</string>
+				<key>device_type</key>
+				<string>USB controller</string>
+				<key>model</key>
+				<string>Intel Sunrise Point-LP USB 3.0 xHCI Controller</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x14,0x2)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,20,2</string>
+				<key>device_type</key>
+				<string>Signal processing controller</string>
+				<key>model</key>
+				<string>Intel Sunrise Point-LP Thermal subsystem</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x16,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,22,0</string>
+				<key>device_type</key>
+				<string>Communication controller</string>
+				<key>model</key>
+				<string>Intel Sunrise Point-LP CSME HECI</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x17,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,23,0</string>
+				<key>device_type</key>
+				<string>SATA controller</string>
+				<key>model</key>
+				<string>Internal SATA controller</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1C,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,28,0</string>
+				<key>device_type</key>
+				<string>PCI bridge</string>
+				<key>model</key>
+				<string>Intel Sunrise Point-LP PCI Express Root Port</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1C,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,28,0/0,0</string>
+				<key>device_type</key>
+				<string>Ethernet controller</string>
+				<key>model</key>
+				<string>RTL8125 2.5GbE Controller</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1C,0x4)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,28,4</string>
+				<key>device_type</key>
+				<string>PCI bridge</string>
+				<key>model</key>
+				<string>Internal PCI bridge</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1C,0x4)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,28,4/0,0</string>
+				<key>device_type</key>
+				<string>Non-Volatile memory controller</string>
+				<key>model</key>
+				<string>Intel Sunrise Point-LP PCI Express Root Port</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1D,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,29,0</string>
+				<key>device_type</key>
+				<string>PCI bridge</string>
+				<key>model</key>
+				<string>Internal PCI bridge</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1D,0x2)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,29,2</string>
+				<key>device_type</key>
+				<string>PCI bridge</string>
+				<key>model</key>
+				<string>Internal PCI bridge</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1D,0x2)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,29,2/0,0</string>
+				<key>device_type</key>
+				<string>Network controller</string>
+				<key>model</key>
+				<string>Wi-Fi 6 AX200</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1F,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,31,0</string>
+				<key>device_type</key>
+				<string>ISA bridge</string>
+				<key>model</key>
+				<string>Intel Sunrise Point LPC Controller</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1F,0x2)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,31,2</string>
+				<key>device_type</key>
+				<string>Memory controller</string>
+				<key>model</key>
+				<string>Intel Sunrise Point-LP PMC</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1F,0x4)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,31,4</string>
+				<key>device_type</key>
+				<string>SMBus</string>
+				<key>model</key>
+				<string>Intel Sunrise Point-LP SMBus</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x8,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,8,0</string>
+				<key>device_type</key>
+				<string>System peripheral</string>
+				<key>model</key>
+				<string>Xeon E3-1200 v5/v6 / E3-1500 v5 / 6th/7th/8th Gen Core Processor Gaussian Mixture Model</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
